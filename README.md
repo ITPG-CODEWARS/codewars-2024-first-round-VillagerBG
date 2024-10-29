@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cxxOiUOi)
+Аз съм Ивелин Станев Станев 8клас. Реших цветовата схема да е navy blue
+и off white, защото е пробвана и доказана цветова комбинация. За
+стартиране не знам какви точно инструкции да дам, може и на десктоп форм фактро може и на такъв на мобилен телефон. Може да се стартира от който и да е html файл,
+защото малко трудно да се види, но в горния ъгъл има home button. Използвал съм чист html и css, без рамки или JavaScript. 
